@@ -1,0 +1,16 @@
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"Quick brown fox jumped on the lazy dog"}
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"Quick brown fox jumped on the lazy cat"}
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"The dog thrashed another dog and saved a fellow dog"}
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"The fox is famous for sour grapes"}
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"Dog is a faithful animal"}
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"Cats are shrewed"}
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"Grass is always greener on the other side"}
+{ "index" : { "_index" : "hello_world_example", "_type" : "text"}}
+{"text":"Quick brown dog jumped on the lazy fox"}
